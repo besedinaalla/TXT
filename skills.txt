@@ -1,0 +1,9 @@
+Skills:
+1.GitBash
+2.GitHub
+3.PostMan
+4.VPN
+5.androidStudio
+6.Charles
+7.SQL
+8.DevTools
