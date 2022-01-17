@@ -1,0 +1,16 @@
+ID:B1
+Project_Name:Abracadabra
+Version:1.0
+Component:Shopping cart  
+Environment:Google Chrome Версия 97.0.4692.71  
+Title:The Item hasn't added to shopping cart 
+Steps:	1.Choose the item
+				2.Press the Buttom 'Buy
+				3.Check the cart</Steps>
+Expected_result:The choosen item has added to shopping cart
+Actual_result:The Item hasn't add to shopping cart 
+Priority:High 
+Severity:Critical
+Reported_by:Besedina Alla 
+Assigned_by:Ksendzov Vadim
+Status:Open
